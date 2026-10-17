@@ -3,8 +3,8 @@
   "localPort": 10808,
   "servers": [
     {
-      "address": "153.52.95.114",
-      "port": 8443,
+      "address": "138.124.89.29",
+      "port": 443,
       "id": "4c4fbc9d-69f3-45d9-8b89-398b859aaff6",
       "flow": "xtls-rprx-vision",
       "security": "reality",
@@ -16,8 +16,8 @@
       "network": "tcp"
     },
     {
-      "address": "153.52.195.114",
-      "port": 8443,
+      "address": "138.124.89.29",
+      "port": 443,
       "id": "4c4fbc9d-69f3-45d9-8b89-398b859aaff6",
       "flow": "xtls-rprx-vision",
       "security": "reality",
