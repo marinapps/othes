@@ -3,7 +3,7 @@
   "localPort": 10808,
   "servers": [
     {
-      "address": "95.163.152.102",
+      "address": "138.124.89.29",
       "port": 443,
       "id": "89181791-3d21-495f-896a-dc188177e0f6",
       "flow": "xtls-rprx-vision",
@@ -11,21 +11,21 @@
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
       "publicKey": "z3Cv4DClhqYrjx7eZGJz9tC-JxjkMtgxJ-inLh5FkUw",
-      "shortId": "973a776e04",
+      "shortId": "26505150",
       "spiderX": "/d1db23677be7a86",
       "network": "tcp"
     },
     {
-      "address": "95.163.152.102",
+      "address": "138.124.89.29",
       "port": 443,
-      "id": "274589e0-c123-4983-8ad7-301a088e824c",
+      "id": "89181791-3d21-495f-896a-dc188177e0f6",
       "flow": "xtls-rprx-vision",
       "security": "reality",
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
-      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "publicKey": "z3Cv4DClhqYrjx7eZGJz9tC-JxjkMtgxJ-inLh5FkUw",
       "shortId": "26505150",
-      "spiderX": "/GYjlduMO7IBJJdx",
+      "spiderX": "/d1db23677be7a86",
       "network": "tcp"
     }
   ]
