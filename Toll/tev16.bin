@@ -18,7 +18,7 @@
     },
     {
       "remark": "Paris-VK-2",
-      "address": "78.17.115.162",
+      "address": "95.163.152.102",
       "port": 8443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
