@@ -3,7 +3,7 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "Paris-VK-1",
+      "remark": "1",
       "address": "138.124.89.29",
       "port": 8443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
@@ -17,9 +17,9 @@
       "network": "tcp"
     },
     {
-      "remark": "Paris-VK-2",
-      "address": "138.124.89.29",
-      "port": 8443,
+      "remark": "2",
+      "address": "95.163.152.102",
+      "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
       "security": "reality",
