@@ -18,7 +18,7 @@
     },
     {
       "remark": "2",
-      "address": "45.155.71.141",
+      "address": "213.165.59.203",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
